@@ -15,7 +15,7 @@
 #include <vector>
 #include <random>
 
-#include "../extended_kalman_filter.h"
+#include "../include/kalman_filters/extended_kalman_filter.h"
 #include "matplotlibcpp.h"
 
 namespace plt = matplotlibcpp;
